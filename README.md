@@ -108,4 +108,3 @@ Run all cells in **fine\_tune.ipynb** to:
 
 ---
 
-Would you like me to **extract the exact `training_args` from your notebook** and include them in the README, so it matches your configuration exactly?
